@@ -1,0 +1,7 @@
+@inproceedings{REPO373,
+    author = "Chen, Bo and Yan, Zhisheng and Zhang, Yinjie and Yang, Zhe and Nahrstedt, Klara",
+    booktitle = "21st USENIX Symposium on Networked Systems Design and Implementation (NSDI 24)",
+    pages = "533--548",
+    title = "{$\{$LiFteR$\}$: Unleash Learned Codecs in Video Streaming with Loose Frame Referencing}",
+    year = "2024"
+}
