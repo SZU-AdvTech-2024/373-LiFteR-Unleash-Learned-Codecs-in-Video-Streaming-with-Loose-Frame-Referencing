@@ -1,0 +1,10 @@
+*.yuv
+*.png
+*.model
+*.mkv
+
+**/events
+
+**/__pycache__
+
+*.log
